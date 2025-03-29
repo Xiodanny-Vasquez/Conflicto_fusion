@@ -5,12 +5,6 @@
 3. Fish
 4. Tiger
 5. Lion
-<<<<<<< HEAD
 6. rabbit
-7. elephant
-
-=======
-6. Chipmunk
-7. Deer
-8. Squirrel
->>>>>>> origin/partner
+7. elephants
+8. cow
